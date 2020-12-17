@@ -79,6 +79,9 @@
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmNew.resx">
+      <DependentUpon>frmNew.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmSelectProjectName.resx">
       <DependentUpon>frmSelectProjectName.cs</DependentUpon>
     </EmbeddedResource>

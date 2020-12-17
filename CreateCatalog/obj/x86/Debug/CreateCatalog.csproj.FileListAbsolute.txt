@@ -31,3 +31,4 @@ C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.csproj
 C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.csproj.CopyComplete
 C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.exe
 C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.pdb
+C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.frmNew.resources
