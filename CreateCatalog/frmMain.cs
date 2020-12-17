@@ -472,6 +472,10 @@ namespace CreateCatalog
             app.Quit();
             app = null;
         }
+        private void getExcelNew(string sCatalogId)
+        {
+
+        }
         private void getExcel(string sCatalogId)
         {
             DataSet dsId = new DataSet();

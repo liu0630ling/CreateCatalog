@@ -60,6 +60,12 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNew.Designer.cs">
+      <DependentUpon>frmNew.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSelectProjectName.cs">
       <SubType>Form</SubType>
     </Compile>
