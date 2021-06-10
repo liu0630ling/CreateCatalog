@@ -36,6 +36,7 @@ namespace CreateCatalog
         int iPageNum;
         string sDocTitle26;
         string sISOSoftWare;//抽出空视图的软件
+        string s;
 
         public frmMain()
         {

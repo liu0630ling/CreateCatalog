@@ -32,3 +32,6 @@ C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.csproj
 C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.exe
 C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.pdb
 C:\Users\0499\Desktop\Git Test2\CreateCatalog\obj\x86\Debug\CreateCatalog.frmNew.resources
+C:\Users\0499\Desktop\新建文件夹\CreateCatalog\bin\Debug\CreateCatalog.exe.config
+C:\Users\0499\Desktop\新建文件夹\CreateCatalog\obj\x86\Debug\CreateCatalog.exe
+C:\Users\0499\Desktop\新建文件夹\CreateCatalog\obj\x86\Debug\CreateCatalog.pdb
